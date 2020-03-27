@@ -11,6 +11,6 @@ function Install-OpenVPN {
     $LocalInstaller = "$env:temp\openvpn-install.exe"
     $ProgramPath = "$env:ProgramFiles\OpenVPN\config"
     Invoke-RestMethod $InstallerURL -OutFile $LocalInstaller
-    Start-Process $LocalInstaller -ArgumentList '/S'
+    Start-Process $LocalInstaller -ArgumentList '/S' -Wait
     if ($ConfigPath) { Copy-Item $ConfigPath $ProgramPath }
 }
