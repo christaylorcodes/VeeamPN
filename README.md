@@ -1,5 +1,5 @@
-﻿[![Build status](https://ci.appveyor.com/api/projects/status/5ebhwddd5n5iqw1a?svg=true)](https://ci.appveyor.com/project/christaylorcodes/VeeamPN)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/37cbca9802d740aa91bcac68d4846400)](https://www.codacy.com/manual/christaylorcodes/VeeamPN?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=christaylorcodes/VeeamPN&amp;utm_campaign=Badge_Grade)
+﻿[![Build status](https://ci.appveyor.com/api/projects/status/8tvifqdnv9cmd0jy/branch/master?svg=true)](https://ci.appveyor.com/project/christaylorcodes/veeampn/branch/master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a64fb26cd77146cdb77ce440c5667e62)](https://www.codacy.com/manual/christaylorcodes/VeeamPN?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=christaylorcodes/VeeamPN&amp;utm_campaign=Badge_Grade)
 [![Gallery](https://img.shields.io/powershellgallery/v/VeeamPN?label=PS%20Gallery&logo=powershell&logoColor=white)](https://www.powershellgallery.com/packages/VeeamPN)
 
 ![VeeamPNLogo](https://www.veeam.com/content/dam/veeam/global/veeam-graphics/veeam_logo_topaz-500.png.web.1280.1280.png)
