@@ -1,7 +1,7 @@
 ---
 Module Name: VeeamPN
 Module Guid: 10775671-1754-4155-b564-50e696875094
-Download Help Link: https://raw.githubusercontent.com/christaylorcodes/VeeamPN/master/VeeamPN/en-US/VeeamPN-help.xml
+Download Help Link: <https://raw.githubusercontent.com/christaylorcodes/VeeamPN/master/VeeamPN/en-US/VeeamPN-help.xml>
 Help Version: 0.1.0.0
 Locale: en-US
 ---
